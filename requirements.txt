@@ -14,4 +14,4 @@ command-pip install streamlit pdfplumber pandas numpy pdf2image paddleocr paddle
 
 ////////////////////////////////////////////
 
-commandf to run-streamlit run app.py
+command to run-streamlit run final.py
