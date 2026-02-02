@@ -1,0 +1,17 @@
+install this libraries-
+streamlit
+pdfplumber
+pandas
+numpy
+pdf2image
+paddleocr
+paddlepaddle
+pillow
+opencv-python
+regex
+
+command-pip install streamlit pdfplumber pandas numpy pdf2image paddleocr paddlepaddle pillow opencv-python regex
+
+////////////////////////////////////////////
+
+commandf to run-streamlit run app.py
